@@ -1,0 +1,17 @@
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\bin\Debug\net8.0-windows\CapturePicture_Sample.exe
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\bin\Debug\net8.0-windows\CapturePicture_Sample.deps.json
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\bin\Debug\net8.0-windows\CapturePicture_Sample.runtimeconfig.json
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\bin\Debug\net8.0-windows\CapturePicture_Sample.dll
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\bin\Debug\net8.0-windows\CapturePicture_Sample.pdb
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.Form1.resources
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.csproj.GenerateResource.cache
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.AssemblyInfoInputs.cache
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.AssemblyInfo.cs
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.csproj.CoreCompileInputs.cache
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.dll
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\refint\CapturePicture_Sample.dll
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.pdb
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.genruntimeconfig.cache
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\ref\CapturePicture_Sample.dll
+C:\Users\chuny\OneDrive\桌面\程式範例\CapturePicture_Sample\CapturePicture_Sample\obj\Debug\net8.0-windows\CapturePicture_Sample.TicTacToe.resources

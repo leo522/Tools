@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|c:\\users\\chuny\\onedrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\capturepicture_sample\\capturepicture_sample\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|solutionrelative:capturepicture_sample\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\capturepicture_sample\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|solutionrelative:capturepicture_sample\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\capturepicture_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|solutionrelative:capturepicture_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\capturepicture_sample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|solutionrelative:capturepicture_sample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\capturepicture_sample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C921CC3-A758-4160-A1D1-81170E1E332D}|CapturePicture_Sample\\CapturePicture_Sample.csproj|solutionrelative:capturepicture_sample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicTacToe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\TicTacToe.cs",
+              "RelativeDocumentMoniker": "CapturePicture_Sample\\TicTacToe.cs",
+              "ToolTip": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\TicTacToe.cs [Design]",
+              "RelativeToolTip": "CapturePicture_Sample\\TicTacToe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:44:55.787Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\Program.cs",
+              "RelativeDocumentMoniker": "CapturePicture_Sample\\Program.cs",
+              "ToolTip": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\Program.cs",
+              "RelativeToolTip": "CapturePicture_Sample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:03:10.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTacToe.cs",
+              "DocumentMoniker": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\TicTacToe.cs",
+              "RelativeDocumentMoniker": "CapturePicture_Sample\\TicTacToe.cs",
+              "ToolTip": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\TicTacToe.cs",
+              "RelativeToolTip": "CapturePicture_Sample\\TicTacToe.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAowHsBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:45:04.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\Form1.cs",
+              "RelativeDocumentMoniker": "CapturePicture_Sample\\Form1.cs",
+              "ToolTip": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\Form1.cs",
+              "RelativeToolTip": "CapturePicture_Sample\\Form1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwFMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:52:00.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\Form1.cs",
+              "RelativeDocumentMoniker": "CapturePicture_Sample\\Form1.cs",
+              "ToolTip": "C:\\Users\\chuny\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u7BC4\u4F8B\\CapturePicture_Sample\\CapturePicture_Sample\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "CapturePicture_Sample\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:08:42.668Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
